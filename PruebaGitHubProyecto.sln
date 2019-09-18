@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaGitHubProyecto", "PruebaGitHubProyecto\PruebaGitHubProyecto.csproj", "{F60B42C6-28E4-4D55-8ACB-01DC2FF4B0CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClases", "PruebaGitHubProyecto\BibliotecaClases.csproj", "{F60B42C6-28E4-4D55-8ACB-01DC2FF4B0CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C16358FD-2E26-4CCE-A6A3-520A1FA6EB61}
 	EndGlobalSection
 EndGlobal

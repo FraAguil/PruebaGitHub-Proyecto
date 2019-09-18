@@ -1,8 +1,13 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-public class Medico
+namespace BibliotecaClases
 {
-	public Medico()
-	{
-	}
+    class Medico : Persona
+    {
+        public int Id { get; set; }
+    }
 }
