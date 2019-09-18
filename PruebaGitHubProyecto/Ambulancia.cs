@@ -8,5 +8,6 @@ namespace BibliotecaClases
 {
     class Ambulancia
     {
+        public int Id { get; set; }
     }
 }
